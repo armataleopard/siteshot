@@ -1,0 +1,66 @@
+
+PROJECT: SiteShot $404 – Memecoin Website
+
+GOAL:
+Create a high-end, interactive and animated website for the memecoin "SiteShot $404", themed around system crashes, digital errors, and nostalgic software failures. The site should have a distinct aesthetic based on glitch art, broken UIs, corrupted Win95-style prompts, and surreal internet nostalgia.
+
+GENERAL DESIGN:
+- Visual style: glitchy, broken OS interfaces, old-school system UI popups (Win98, XP), neon & CRT scanlines, corrupted graphs
+- Dark theme with deep blues, digital reds, flickering screen effects
+- Logo and main header (centered): “SiteShot $404”
+- Subtitle: “When you bought the top… and the top crashed”
+- Add a “Launch on PUMP.FUN” section on homepage with visible date: “LAUNCHING PUMPFUN 30 MAY”
+- Use the supplied image set as visual references for aesthetics and animations
+- Fully responsive design
+
+NAVIGATION:
+- Home
+- The Error (about section)
+- Artifacts (gallery)
+- Terminal Logs (lore and meme logs)
+- Join Us (Telegram only)
+
+ANIMATIONS:
+- Static noise/flickering background loop
+- Hover effect that triggers “404” glitch sparks on elements
+- Popup elements styled like crash error dialogs that fade in/out with sounds
+- Rolling ticker with fake market crashes and bugged out memos
+- Mouse trail that leaves pixel distortions
+- Opening transition like BIOS boot glitching into website
+- Hovering over charts randomly distorts them
+
+INTERACTIVE ELEMENTS:
+1. “Generate Fake Error” – button that spawns an error popup with randomized glitch text
+2. “Crash Simulator” – drag slider to crash site UI (goes black, reboot bootloader, fake fix)
+3. “Museum of Memes” – gallery of fake financial art pieces with trading candles drawn in oil-paint style
+4. AI bot chat window – speaks glitchy fortunes using error codes
+5. Graphs that corrupt the more you interact – eventually replace candles with burning candles
+
+CONTENT BLOCKS:
+1. Error Manifesto
+   - ~130+ words fictional backstory: the coin was born from the depths of a failed trade and grew stronger with every rug.
+   - Example: “They tried to banish it. They tried to fix it. But $404 was never a bug—it was the system. When the bots failed and the candles melted, a lone trader screen-captured history and turned the screenshot into prophecy…”
+
+2. Memetic Logs
+   - Feed of broken screenshots with captioned memes.
+   - Include user-submitted crash logs in gallery format.
+
+3. About $404 Tokenomics
+   - Supply: 404,000,000
+   - No LP locked. No roadmap. Only RAM left.
+   - Tax: 4.04% in/out
+   - Glitch-based redistribution (fake concept)
+
+4. “Join the Loop”
+   - Button to open Telegram group
+   - Fake CLI that types “ping telegram && open portal”
+
+FOOTER:
+- Minimalistic, black background with CRT flicker
+- Only Telegram icon + address
+- Text: “System halted. Reload to pretend again.”
+
+DELIVERABLES:
+- HTML/CSS/JS site for Cursor
+- All visuals must be pixel-perfect and resemble provided imagery
+- All animations need to be performance-optimized
